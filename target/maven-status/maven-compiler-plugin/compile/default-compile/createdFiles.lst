@@ -1,0 +1,5 @@
+models\BookingDates.class
+models\Auth.class
+models\AuthResponse.class
+models\Booking.class
+models\BookingResponse.class
